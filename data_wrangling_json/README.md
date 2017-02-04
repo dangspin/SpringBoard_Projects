@@ -11,4 +11,4 @@ The two extra files:
 2. style-table.css
 
 are the CSS files in order to make the ipython notebook beautiful.
-I got them from the youtube tutorial: https://www.youtube.com/watch?v=5JnMutdy6Fw&t=7912s
+I got them from the [youtube tutorial](https://www.youtube.com/watch?v=5JnMutdy6Fw&t=7912s)
