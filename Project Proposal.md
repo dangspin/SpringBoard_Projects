@@ -14,7 +14,7 @@ Can we categorize the happiness for different countries?
 We can analyze the correlation between happiness and some other social problems: alcohol/tobacco consumption, suicide rate, etc. Here, we can compare the alcohol consumption data with the happiness index.
 We can divide the happiness score as ‘Happy’,’It is ok’, and ‘Sad’. Since we have many features, can we find a model that classify the countries into these three categories? So this is a multivariable classification problem.
 
-The skill set I might use:
+**The skill set I might use:**
 Linear regression
 Classification
 Time series 
