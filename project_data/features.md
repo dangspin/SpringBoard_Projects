@@ -1,6 +1,6 @@
 ## Features of my dataset and their meanings:
 
- 1. **Log_GDP_per_capita**: This is the quantity that properly describes the GDP of a country. The definition is: \being{log(GDP_per_capita)=log(GDP/Population)}end\
+ 1. **Log_GDP_per_capita**: This is the quantity that properly describes the GDP of a country. The definition is: $$X_i$$
  
  2. **Confidence_in_government**: The higher this value, means higher reliable of the government.
  
