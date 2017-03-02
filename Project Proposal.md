@@ -29,13 +29,13 @@ The potential client of my study will be journalists, economists, and policy mak
 
 Related data set:
 There are some available data set online that might be useful for our investigation. 
-1. http://worldhappiness.report/
-2. https://en.wikipedia.org/wiki/Gross_National_Happiness (This is not the dataset, it is the definition of happiness)
-3. http://www.fao.org/faostat/en/#data/CC
-4. http://apps.who.int/gho/data/node.main.MHSUICIDE?lang=en
-5. http://apps.who.int/gho/data/node.main.A1026?lang=en
-6. https://www.conference-board.org/data/economydatabase/index.cfm?id=30565
-7. http://data.worldbank.org/indicator/NY.GDP.PCAP.CD?view=map&year=2015
+  1. http://worldhappiness.report/
+  2. https://en.wikipedia.org/wiki/Gross_National_Happiness (This is not the dataset, it is the definition of happiness)
+  3. http://www.fao.org/faostat/en/#data/CC
+  4. http://apps.who.int/gho/data/node.main.MHSUICIDE?lang=en
+  5. http://apps.who.int/gho/data/node.main.A1026?lang=en
+  6. https://www.conference-board.org/data/economydatabase/index.cfm?id=30565
+  7. http://data.worldbank.org/indicator/NY.GDP.PCAP.CD?view=map&year=2015
 
 
 
