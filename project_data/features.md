@@ -13,19 +13,21 @@
  6. **Gini_index**: from the World Development Indicators (Last Updated: 22-Dec-2015). The variable labeled at the source as “GINI index (World Bank estimate)”, series code “SI.POV.GINI”. The average does not imply that a country has the gini index in all years in that period. In fact, most do not.
  
  7. **Alcohol_consumption**: Alcohol, recorded per capita consumption (in litres of pure alcohol)
-Food_consumption: Discussing the absolute food consumption is not quite meaningful, since it is confusing to say someone has more food than others. Instead, here we use the Kcal per capita to show the total food consumption, which indicate how much calorie a person need for one day.
-
- 8. **Health_Expenditure**: Total expenditure on health per capita in U.S. dollar
- Homicide_rate: Rate per 100,000 population. “Intentional homicide” is defined as unlawful death purposefully inflicted on a person by another person
  
- 9. **Children_mortality**: Deaths under age five per 1,000 live births. Both sexes combined. Probability of dying between birth and exact age 5. It is expressed as deaths per 1,000 births.
+ 8. **Food_consumption**: Discussing the absolute food consumption is not quite meaningful, since it is confusing to say someone has more food than others. Instead, here we use the Kcal per capita to show the total food consumption, which indicate how much calorie a person need for one day. 
  
- 10. **Total_income**: Gross National Income- GNI per capita (in U.S. dollar)
+ 9. **Health_Expenditure**: Total expenditure on health per capita in U.S. dollar
  
- 11. **Tertiary_Education**: Gross enrolment ratio. Tertiary (ISCED 5 and 6) - countries ranking (%)
+ 10. **Homicide_rate**: Rate per 100,000 population. “Intentional homicide” is defined as unlawful death purposefully inflicted on a person by another person
  
- 12. **Expentiture_on_Education**: Public spending on education (% of GDP) - countries ranking (% of GDP)
+ 11. **Children_mortality**: Deaths under age five per 1,000 live births. Both sexes combined. Probability of dying between birth and exact age 5. It is expressed as deaths per 1,000 births.
  
- 13. **Average_visitors**: This is the average of total visitor numbers per year. The average is= Total visitors/ land area
+ 12. **Total_income**: Gross National Income- GNI per capita (in U.S. dollar)
  
- 14. **Unemployment_rate**: (%) of total labor force.
+ 13. **Tertiary_Education**: Gross enrolment ratio. Tertiary (ISCED 5 and 6) - countries ranking (%)
+ 
+ 14. **Expentiture_on_Education**: Public spending on education (% of GDP) - countries ranking (% of GDP)
+ 
+ 15. **Average_visitors**: This is the average of total visitor numbers per year. The average is= Total visitors/ land area
+ 
+ 16. **Unemployment_rate**: (%) of total labor force.
