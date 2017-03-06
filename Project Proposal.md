@@ -36,6 +36,7 @@ There are some available data set online that might be useful for our investigat
   5. http://apps.who.int/gho/data/node.main.A1026?lang=en
   6. https://www.conference-board.org/data/economydatabase/index.cfm?id=30565
   7. http://data.worldbank.org/indicator/NY.GDP.PCAP.CD?view=map&year=2015
+  8. https://knoema.com/atlas/topics/World-Rankings
 
 
 
