@@ -32,10 +32,10 @@
  
  16. **unemploy**: (%) of total labor force.
  
- 17. **ecoFree**: Economic Freedom
+ 17. **ecoFree**: Economic Freedom.(score (100 represents the maximum freedom)). Economic freedom is the fundamental right of every human to control his or her own labor and property. In an economically free society, individuals are free to work, produce, consume, and invest in any way they please, with that freedom both protected by the state and unconstrained by the state. In economically free societies, governments allow labor, capital and goods to move freely, and refrain from coercion or constraint of liberty beyond the extent necessary to protect and maintain liberty itself.
  
  18. **visitor**: Total number of visitors this year
  
- 19. **area**: The land area of this country
+ 19. **area**: The land area of this country in the units of $km^2$
  
- 20. **suicide**: The suicide rate 
+ 20. **suicide**: The suicide rate per 100000 population
